@@ -39,7 +39,12 @@ src/main/java/com/rentacar/
     ├── Validador.java           # Validaciones comunes
     └── ConsolePrinter.java      # Salida formateada
 ```
+---
+## Diagrama
 
+![Diagrama del proyecto](notebook/Diagrama.png)
+
+---
 ## Requisitos Implementados
 
 - **App.java** como punto de entrada con menú interactivo
