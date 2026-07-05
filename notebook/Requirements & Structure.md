@@ -5,16 +5,16 @@ This file contains the functional and structural requirements for the RentACar p
 
 # REQUIREMENTS
 
-- [ ] App.java as the main file with menu  
-- [ ] ArrayList and collections  
-- [ ] OOP: inheritance and polymorphism  
-- [ ] Arrays, lists, and generics  
-- [ ] Relationships between classes  
-- [ ] Sets (Set)  
-- [ ] Maps (HashMap)  
-- [ ] Enumerations  
-- [ ] Exceptions (I/O, HashMap, etc.)  
-- [ ] SOLID principles
+- [x] App.java as the main file with menu  
+- [x] ArrayList and collections  
+- [x] OOP: inheritance and polymorphism  
+- [x] Arrays, lists, and generics  
+- [x] Relationships between classes  
+- [x] Sets (Set)  
+- [x] Maps (HashMap)  
+- [x] Enumerations  
+- [x] Exceptions (I/O, HashMap, etc.)  
+- [x] SOLID principles
 
 ---
 
