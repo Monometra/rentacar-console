@@ -1,12 +1,14 @@
-# RentACar - Console Application
+# 🚗 RentACar - Console Application
 
 Sistema de gestión de alquiler de vehículos desarrollado en Java 21 como proyecto de taller/tarea.
 
-## Descripción
+---
+## 📄 Descripción
 
 Aplicación de consola para gestionar una empresa de alquiler de autos. Permite administrar categorías, vehículos, clientes, agentes de renta y contratos de alquiler a través de un menú interactivo.
 
-## Estructura del Proyecto
+---
+## 🗂️ Estructura del Proyecto
 
 ```
 src/main/java/com/rentacar/
@@ -40,12 +42,12 @@ src/main/java/com/rentacar/
     └── ConsolePrinter.java      # Salida formateada
 ```
 ---
-## Diagrama
+## 🧩 Diagrama
 
 ![Diagrama del proyecto](notebook/Diagrama.png)
 
 ---
-## Requisitos Implementados
+## 📋 Requisitos Implementados
 
 - **App.java** como punto de entrada con menú interactivo
 - **Colecciones**: ArrayList, HashMap, HashSet
@@ -56,7 +58,8 @@ src/main/java/com/rentacar/
 - **Principios SOLID** básicos (separación de responsabilidades en services)
 - **Generics** en collections y maps
 
-## Cómo Ejecutar
+---
+## 🚀 Cómo Ejecutar
 
 ```bash
 # Compilar
@@ -69,7 +72,8 @@ mvn package
 java -jar target/rentacar-console-1.0.0.jar
 ```
 
-## Menú Principal
+---
+## 🧭 Menú Principal
 
 1. **Gestionar Categorías** - CRUD categorías de autos
 2. **Gestionar Autos** - CRUD autos, buscar por ID/placa, cambiar estado, listar por categoría
@@ -80,7 +84,8 @@ java -jar target/rentacar-console-1.0.0.jar
 7. **Configurar Empresa** - Cambiar nombre, dirección, teléfono
 8. **Salir**
 
-## Datos de Prueba
+---
+## 📦 Datos de Prueba
 
 Al iniciar se cargan automáticamente:
 - 3 categorías: Económico, SUV, Lujo
@@ -89,8 +94,15 @@ Al iniciar se cargan automáticamente:
 - 2 agentes
 - 1 contrato activo (auto alquilado)
 
-## Tecnologías
+---
+## ⚙️ Tecnologías
 
 - Java 21
 - Maven 3.x
 - Sin dependencias externas (solo JDK)
+
+---
+## 👥 Autores
+
+- 🌐 **Karina Méndez** - [@Sixthdam](https://github.com/sixthdam)
+- 💻 **Juan Jose Mora** - [@Monometra](https://github.com/monometra)
